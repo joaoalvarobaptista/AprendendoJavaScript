@@ -1,0 +1,12 @@
+#campo{
+    padding: 5px;
+    width: 200px;
+}
+
+#button{
+    font-weight: bold;
+    background-color: pink;
+    color: red;
+    height: 70px;
+    width: 100px;
+}

@@ -1,0 +1,13 @@
+.azul{
+    background: blue;
+    color: white;
+}
+
+.vermelho{
+    background-color: red;
+    color: white;
+}
+
+.oculto{
+    display: none;
+}
